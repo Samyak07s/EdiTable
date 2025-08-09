@@ -115,4 +115,4 @@ flutter:
 flutter_icons:
   android: true
   ios: true
-  image_path: "assets/images/logo.png" 
+  image_path: "assets/images/dplogo.png" 
