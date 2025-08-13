@@ -190,6 +190,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.1.1"
+  flutter_state_notifier:
+    dependency: transitive
+    description:
+      name: flutter_state_notifier
+      sha256: "4a1d282df8ab549d0c6aed0a2cdb486111c830778028f14048980c886bbb74fa"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.7.3"
   flutter_test:
     dependency: "direct dev"
     description: flutter
@@ -200,6 +208,22 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
+  freezed_annotation:
+    dependency: transitive
+    description:
+      name: freezed_annotation
+      sha256: "1be037f901137bf2b9a0c309e9bf2694d6ec77687645211218191ade4f41a4b8"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.1.0"
+  history_state_notifier:
+    dependency: transitive
+    description:
+      name: history_state_notifier
+      sha256: "5e463c63e44ecd3d238d1962afda52c7321d0f417fe9a80160635766e2e1a7d2"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.0.6+1"
   hooks_riverpod:
     dependency: "direct main"
     description:
@@ -288,6 +312,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "1.15.0"
+  nested:
+    dependency: transitive
+    description:
+      name: nested
+      sha256: "03bac4c528c64c95c722ec99280375a6f2fc708eec17c7b3f07253b626cd2a20"
+      url: "https://pub.dev"
+    source: hosted
+    version: "1.0.0"
   path:
     dependency: transitive
     description:
@@ -320,6 +352,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "6.0.3"
+  provider:
+    dependency: transitive
+    description:
+      name: provider
+      sha256: "4abbd070a04e9ddc287673bf5a030c7ca8b685ff70218720abab8b092f53dd84"
+      url: "https://pub.dev"
+    source: hosted
+    version: "6.1.5"
   riverpod:
     dependency: transitive
     description:
@@ -328,6 +368,14 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "2.6.1"
+  scribble:
+    dependency: "direct main"
+    description:
+      name: scribble
+      sha256: "97952322a350818bc0f7aadd71dcaa56bd54ba7d3e9337a41c0edffdfb807d8f"
+      url: "https://pub.dev"
+    source: hosted
+    version: "0.3.1"
   scrollable_positioned_list:
     dependency: "direct main"
     description:
@@ -361,10 +409,10 @@ packages:
     dependency: transitive
     description:
       name: state_notifier
-      sha256: b8677376aa54f2d7c58280d5a007f9e8774f1968d1fb1c096adcb4792fba29bb
+      sha256: "8fe42610f179b843b12371e40db58c9444f8757f8b69d181c97e50787caed289"
       url: "https://pub.dev"
     source: hosted
-    version: "1.0.0"
+    version: "0.7.2+1"
   stream_channel:
     dependency: transitive
     description:
